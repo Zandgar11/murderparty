@@ -98,3 +98,7 @@ footer {
 .monument-text, .monument-text2 {
   flex: 1;
 }
+
+li {
+    font-size: 28px;
+}
